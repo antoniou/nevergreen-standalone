@@ -35,3 +35,4 @@ If you would like to add a feature/fix a bug for us please create a pull request
 Copyright © 2015 Build Canaries
 
 Distributed under the Eclipse Public License either version 1.0 or (at your option) any later version.
+# nevergreen-standalone
